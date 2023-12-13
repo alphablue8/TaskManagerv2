@@ -15,7 +15,6 @@ export const logout = <i className="fa-solid fa-right-from-bracket"></i>;
 export const user = <i className="fa-solid fa-user"></i>;
 export const join = <i className="fa-solid fa-user-plus"></i>;
 export const heart = <i className="fa-solid fa-heart"></i>;
-export const edit = <i className="fa-solid fa-file-pen"></i>;
 export const users = <i className="fa-solid fa-user-group"></i>;
 export const todo = <i className="fa-solid fa-clipboard-list"></i>;
 export const down = <i className="fa-solid fa-caret-down"></i>;
